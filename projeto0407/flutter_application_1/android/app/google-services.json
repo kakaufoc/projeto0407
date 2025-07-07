@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470635657912",
+    "project_id": "usuarios-8e902",
+    "storage_bucket": "usuarios-8e902.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470635657912:android:1e4290037920c00dfd924d",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8-kAJuq2-GG9ijG2CWwimH21Qd7mQBJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
